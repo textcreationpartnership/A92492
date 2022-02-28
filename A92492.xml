@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a person of quality residing in Kinsale, with an attestation of the officers of the Parliaments army in Munster, in vindication of the Lord of Inchiquin, Lord President of that province Also, another letter from Colonel William Jephson, relating the present state and condition of Ireland. Published by speciall command.</title>
+            <author>B. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92492</idno>
+            <idno type="STC">Wing S11</idno>
+            <idno type="STC">Thomason E354_6</idno>
+            <idno type="STC">ESTC R201095</idno>
+            <idno type="EEBO-CITATION">99861659</idno>
+            <idno type="PROQUEST">99861659</idno>
+            <idno type="VID">113799</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113799)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E354[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a person of quality residing in Kinsale, with an attestation of the officers of the Parliaments army in Munster, in vindication of the Lord of Inchiquin, Lord President of that province Also, another letter from Colonel William Jephson, relating the present state and condition of Ireland. Published by speciall command.</title>
+                  <author>B. S.</author>
+                  <author>Jephson, William, 1615?-1659?</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the Old Bayley.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>15. Sept. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of three letters, the first of which is signed: B.S.; the second is signed by 32 men; the third is signed: William Jephson.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674.</term>
+               <term>Munster (Ireland) --  History --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113799:1" rendition="simple:additions"/>
+            <p>A LETTER From a perſon of quality reſiding in Kinſale, With an Atteſtation of the Officers of the Parliaments Army in <hi>Munſter,</hi> in vindication of the Lord of <hi>INCHIQ<g ref="char:V">Ʋ</g>IN,</hi> Lord Preſident of that Province.</p>
+            <p>ALSO, Another Letter from Colonel <hi>William Jephſon,</hi> relating the preſent ſtate and condition of <hi>IRELAND.</hi>
+            </p>
+            <p>Publiſhed by ſpeciall Command.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Wright</hi> at the Kings Head in the Old Bayley. 15. <hi>Sept.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113799:2"/>
+            <pb n="1" facs="tcp:113799:2"/>
+            <head>A Letter from a perſon of quality reſi<g ref="char:EOLhyphen"/>ding at <hi>Kinſale,</hi> and an Atteſtation of the Officers of the Parliaments Army in <hi>Munſter,</hi> in vindication of the Lord of <hi>Inchiquin,</hi> Lord Preſident of that Province.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>Pon notice of ſundry falſe reports caſt abroad, whereby the honour and inte<g ref="char:EOLhyphen"/>grity of the Lord of <hi>Inchiquin,</hi> Lord Preſident of this Province, was endea<g ref="char:EOLhyphen"/>voured as maliciouſly as undeſervedly to be traduced, The Officers of this Army (who have been eye witneſſes of his Lordſhips actions and proceed<g ref="char:EOLhyphen"/>ings, and are very ſenſible how innocently his Lordſhip ſuf<g ref="char:EOLhyphen"/>fers herein) took into their ſerious conſideration, how ne<g ref="char:EOLhyphen"/>ceſſary and meet it was for them to declare their know<g ref="char:EOLhyphen"/>ledges in each particular, as well for the vindication of his Lordſhip, who it hath pleaſed Almighty God in his pro<g ref="char:EOLhyphen"/>vidence to make a principall inſtrument in preſerving the remnant of the poore Proteſtants here, and in preventing the deſignes of theſe bloody Rebels in the continuing of the unnaturall Warre there) as alſo for the honour and ſervice of the Parliament (in preſerving perſons of ho<g ref="char:EOLhyphen"/>nour
+<pb n="2" facs="tcp:113799:3"/>
+and quality by them eminently imployed, from un<g ref="char:EOLhyphen"/>juſt aſperſions, which may be conceived to reflect with no ſmall prejudice upon their affairs, in relation to the pub<g ref="char:EOLhyphen"/>like.) And thereupon they did unanimouſly make this Atteſtation, which you ſhall herewith receive, to be pub<g ref="char:EOLhyphen"/>liſhed there where the ſcandals were raiſed, as yee ſee occaſion.</p>
+            <p>I have no newes to certifie you of, ſave that by the un<g ref="char:EOLhyphen"/>happy loſſe of <hi>Bunratty,</hi> (ſoone after Lieutenant Colonell <hi>Mac Adam</hi> was ſlaine) the Rebels are at liberty, and now in preparation to fall upon us, and in their hopes of a ſud<g ref="char:EOLhyphen"/>den peace to be concluded between the Lord of <hi>Ormond</hi> and them; and of the ſlow coming of ſupplies unto us, they have ſwallowed us up already in their own conceits, but they ſhall be ſure to finde the beſt reſiſtance that it ſhall pleaſe God to enable us to give them, and that very faithfully. And ſo Sir this being to no other purpoſe, I reſt,</p>
+            <closer>
+               <signed>Your very loving friend, <hi>B. S.</hi>
+               </signed>
+               <dateline>Kinſale,
+<date>Auguſt 2. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>To my very loving friend <hi>Thomas Betſwohth</hi> Eſquire, Agent for the Province of <hi>Munſter.</hi>
+               </salute>
+            </opener>
+            <p>
+               <hi>FInding</hi> in a private Pamphlet, a ſcandalous paſſage which may eclipſe the honour and reputation of the Right Honourable the Lord Barron of <hi>Inchiquin,</hi> now Lord Preſident of <hi>Munſter,</hi> in that he did not formerly take in the Caſtle of <hi>Blarny,</hi> ſo neere the Garriſon of <hi>Cork,</hi> as though his Lordſhip had overſlipt opportunities to have taken in the ſame; <hi>And whereas</hi> we heare it hath been ſuggeſted into <hi>England,</hi> that his Lordſhip hath had ſome ſecret correſpondencie with the Iriſh, whereby he hath, during theſe Warres, been extraordinarily favourable un<g ref="char:EOLhyphen"/>to them in ſome points; <hi>And</hi> whereas in the third place
+<pb n="3" facs="tcp:113799:3"/>
+another ſcandal hath bin endeavoured to be faſtned on his Lordſhip, <hi>That he hath converted the entertainment due to the Souldier and Officer of the Army, and which might have bin conveniently paid them, into his owne purſe, &amp; tranſport<g ref="char:EOLhyphen"/>ed ſeverall ſums of money into forraign parts. We</hi> therefore, whoſe names are underwritten, make this enſuing atteſta<g ref="char:EOLhyphen"/>tion, to vindicate (as in juſtice we ought) his Lordſhips ho<g ref="char:EOLhyphen"/>nour, and do confidently and truly averre, in anſwer to the firſt ſcandall (againſt all foule-mouthed detractors,) That upon the death of the late Lord Preſident, a great debate ariſing at a Councel of War at <hi>Downraile,</hi> who ſhould have the power of commanding the Army, and ordering the Warre untill ſome Commiſſion ſhould come from the State at <hi>Dublin,</hi> or out of <hi>England,</hi> the generall Vote caſt the weight on the Lord of <hi>Inchiquins</hi> ſhoulders, who under<g ref="char:EOLhyphen"/>taking the Warre, proſecuted the Warre againſt the Re<g ref="char:EOLhyphen"/>bels, by taking ſeverall Caſtles in that then plentifull Coun<g ref="char:EOLhyphen"/>try, called <hi>Roches</hi> Country, thereby (beſides the weakning of the Rebels) his Lordſhip gained meanes to maintaine the Army which was then like to be diſtreſſed, there being ſcarce any proviſion in the ſtores, as alſo he lay ready to receive the Enemy, which his Lordſhip heard by intelli<g ref="char:EOLhyphen"/>gence were falling out of the County of <hi>Limricke,</hi> into the County of <hi>Corke</hi> that way, and thereby his Lordſhip ob<g ref="char:EOLhyphen"/>tained by Gods providence thoſe two remarkable Victo<g ref="char:EOLhyphen"/>ries of <hi>Newtowne</hi> and <hi>Liſcarroll,</hi> in either of which (eſpe<g ref="char:EOLhyphen"/>cially the latter) had the Rebels prevailed, or not been op<g ref="char:EOLhyphen"/>poſed untill they came over the black water, our intereſt in <hi>Munſter</hi> was likely to be loſt; from <hi>Liſcarroll</hi> his Lord<g ref="char:EOLhyphen"/>ſhip returned back to <hi>Corke</hi> with a reſolution to fall on <hi>Blarny,</hi> but that reſolution being debated at a Generall Councell of Warre at <hi>Corke,</hi> it was by a Generall conſent concluded, It was neither ſeaſonable nor feaſible, by rea<g ref="char:EOLhyphen"/>ſon
+<pb n="4" facs="tcp:113799:4"/>
+of the mortallitie of the Souldiers, who died in mul<g ref="char:EOLhyphen"/>titudes, and want of Victuals to carry the Army forth to lie in the field; for his Lordſhip was then ſo neceſſitated, that to maintaine the Souldiers he was conſtrained to bil<g ref="char:EOLhyphen"/>let them on the ſeverall Towns, they giving them but one meale a day for about twelve weeks together, and to ſend about one thouſand Horſe and Foot to quarter at <hi>Down<g ref="char:EOLhyphen"/>raile</hi> and <hi>Malloe,</hi> under the command of Major Generall <hi>Jephſon,</hi> to live by gaining their owne ſubſiſtence by taking now and then ſome ſmall preys from the Rebels: all the ſucceeding winter his Lordſhip was forced likewiſe to im<g ref="char:EOLhyphen"/>ploy all the forces in preying ſeverall parts of the Coun<g ref="char:EOLhyphen"/>trie to gaine a livelihood for them (no ſupplies comming out of <hi>England</hi> to relieve him) and in ſending ſome part of the Army to relieve <hi>Rathbarry</hi> in the Weſt, or to fetch off divers diſtreſſed Engliſh, who were beſieged by the Iriſh of thoſe parts: And after that the Army that lay in the ſeverall Garriſons of <hi>Corke, Kinſale, Bandon, Malloe,</hi> and <hi>Downraile;</hi> was imployed in burning and harrowing all <hi>Muskry</hi> in ſeverall places at once, to diſ-inable them to maintaine a ſiege threatned againſt <hi>Corke,</hi> and to which end they had provided ſeverall ſorts of graine in great quantities in that Country, and in <hi>Mac Donoghs</hi> Coun<g ref="char:EOLhyphen"/>try, the Army ſtill rather decreaſing then otherwiſe, and no ſupplies comming out of <hi>England,</hi> yet his Lordſhip car<g ref="char:EOLhyphen"/>ried as convenient a number as he could of Horſe and Foot to relieve <hi>Capaquine,</hi> (a Garrlſon of ours in the County of <hi>Waterford</hi>) to ſtop the Enemy from falling on it; and after that, the Army was ſent in May into <hi>Ibawne,</hi> where divers Caſtles were taken, and thereby the Army ſti<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l refreſhed, That being done, and the Army retiring, the Garriſons being ſpent out and not able to diet the Souldiers any longer, his Lordſhip was conſtrained (to
+<pb n="5" facs="tcp:113799:4"/>
+keep the Souldier from diſorder at home, &amp; to encourage them by getting ſomewhat abroad) to march towards <hi>Kilmalock,</hi> and doubting that that part of the Country would not afford any ſtore of prey, his Lordſhip ſent Major <hi>Story</hi> with a good party into <hi>Kerry</hi> (which was a Country full of Cattle) to bring a prey from thence, and to bring it to the Leaguer of <hi>Kilmalock,</hi> where ſtill wants oppreſſed, and ſo his Lordſhip was con<g ref="char:EOLhyphen"/>ſtrained to returne home, and Sir <hi>Charles Vavaſor</hi> went to his former deſigne to <hi>Cloghleigh,</hi> which though he tooke, yet he unfortunately loſt preſently after, with moſt of his men, which much weakned the Army; and yet his Lordſhip advanced in the end of <hi>July</hi> the ſame yeare to releeve <hi>Liſmore</hi> (beſieged by the Rebels) which he did, and ſtrengthened that Garriſon, and after his re<g ref="char:EOLhyphen"/>turne the Army was ſent againe into <hi>Ibawne</hi> to reape the plentifull Harveſt, they at their being there the <hi>May</hi> be<g ref="char:EOLhyphen"/>fore found would then be, which much diſadvantaged the Rebels; and (beſides the ſuſtinance it gave the Army) it releeved the two Townes of <hi>Kinſale</hi> and <hi>Bandon,</hi> the latter whereof had it not been for that worke had peri<g ref="char:EOLhyphen"/>ſhed, together with the Souldiers; (the Inhabitants all of them were in that penury and want) while theſe things were in action the Ceſſation came in, during which time no Hoſtile attempts were made on either ſide, and ſo his Lordſhip could not but forbeare <hi>Blarny,</hi> which during the times of former open Hoſtility was moſt ſtrongly guarded with Horſe and Foot, beſides a conſiderable part of the enemy ſtill in the Country to releeve it. <hi>After</hi> the Ceſſation when his Lordſhip re-aſſumed the Warre, the Army here was very weake, and he (ſtill expecting aide out of <hi>England</hi>) did with the advice of many Counſells of
+<pb n="6" facs="tcp:113799:5"/>
+Warre forbeare any attempt againſt <hi>Blarny,</hi> though a great eye-ſore unto him; and the <hi>Iriſh</hi> ſtill threatning to ſit downe before <hi>Corke,</hi> and to beſiege it; his Lordſhips chiefeſt indeavours was to raiſe what men he could poſſi<g ref="char:EOLhyphen"/>ble in theſe parts, and to fortifie the Townes that they might not finde him ſo altogether unprovided as they hoped they ſhould, as alſo to borrow money where poſ<g ref="char:EOLhyphen"/>ſible he could procure any, even from the <hi>Engliſh</hi> that were left, engaging his Honour for ſatisfaction upon the firſt landing of any ſupplies: All theſe his Lordſhips wants, the many Remonſtrances ſent from the Counſell of Warre here to Mr. Speaker, the often ſending of A<g ref="char:EOLhyphen"/>gents to both the Honourable Houſes can too lamentably ſpeake; <hi>In the</hi> yeare laſt paſt the Earle of <hi>Caſtle-haven</hi> came downe with a Potent Army, tooke all our out-Garriſons, beſieged <hi>Youghall,</hi> which with much trouble and coſt, by contribution of the well-diſpoſed <hi>Engliſh</hi> in our other Garriſons though not in the beſt condition) was defended, releeved, and the Rebels raiſed their Siege in <hi>November; At</hi> which time by reaſon of the na<g ref="char:EOLhyphen"/>kedneſſe of the Souldier, and many wants, the Army was not able to be in the Feild; <hi>And</hi> if his Lordſhip had been better ſupplyed then he was it was held not ſafe (the Rebels being retired but to the confines of our Quarters) <hi>And</hi> in <hi>December</hi> his Lordſhip was entreated by the Com<g ref="char:EOLhyphen"/>manders and Officers to make his addreſſe in perſon to the Honourable Houſes for ſupplies; <hi>All</hi> which paſſages ſhew convincingly how almoſt impoſſible it was for his Lord<g ref="char:EOLhyphen"/>ſhip to take in <hi>Blarny,</hi> for he had ſtill his hands full of other buſineſſe of no ſmall conſequence, beſides his great wants, that he was compelled to abſtaine from falling on that place though ſomewhat obnoxious.</p>
+            <p>
+               <pb n="7" facs="tcp:113799:5"/>
+               <hi>For the</hi> ſaid ſecond aſpertion, though generalls are difficult to be wiped off, becauſe particular enumerations of defences are not of the ſame latitude with the generall accuſation; yet we who have been uſuall eye witneſſes of his Lordſhips Actions, and of the entercourſes his Lord<g ref="char:EOLhyphen"/>ſhip hath had with the <hi>Jriſh,</hi> and we with whom he hath adviſed, when his Lordſhip treated with any of them, can juſtly aſſert, as we doe here profeſſe, That no man could deale more adviſedly with them to the beſt of our un<g ref="char:EOLhyphen"/>derſtandings, and to the advantage of the Army, then his Lordſhip did from time to time, and none did or could proſecute his owne Nation and Kinred more then his Lordſhip did thoſe of his Nation and Kinred, whom he found diſ-affected to the Worke he had undertaken for the ſuppreſſing of the Rebels; <hi>We</hi> can demonſtrate by particulars his Lordſhips diſ-affections to the <hi>Iriſh,</hi> as his turning the <hi>Iriſh</hi> out of the walled Townes, his taking of his Uncles Caſtle of <hi>Ballimartre,</hi> and burning it, his hanging a Popiſh Deane there, and a Frier in <hi>Corke</hi> before the turning out of the Citizens out of the Towne, as alſo divers other particulars.</p>
+            <p>
+               <hi>To the third</hi> and ſharpeſt ſtinge of a viperous tongue, we likewiſe (whoſe fortunes were not ſo great as to loſe or forbeare our entertainements) becauſe we have re<g ref="char:EOLhyphen"/>ceived from his Lordſhip all juſt ſatisfaction as farre as we ſaw the money come in, can teſtifie for his Lordſhip that he hath made many hard ſhifts to procure money and meanes for the Army, and that he turned what he recei<g ref="char:EOLhyphen"/>ved or procured to the beſt advantage of the carrying on of the Warre. <hi>We</hi> were not ſo blinde but we could ſee and diſcerne what came in, nor were we ſo Meale-mouthed as to hold our peace; if we ſaw any money aſſigned for
+<pb n="8" facs="tcp:113799:6"/>
+our releefe drop into anothers mans purſe, for never was any money or proviſion that came for the uſe of the Ar<g ref="char:EOLhyphen"/>my diſpoſed of, but his Lordſhip participated to ſome of the Commanders and Officers in chiefe, how he could and would diſtribute it to the Garriſon Souldiers and Officers; <hi>Nay,</hi> we can confidently, becauſe knowingly, ſay, That his Lordſhip hath divers times disburſed of his owne monies, and borrowed of his neareſt friends to defray the Charge of the Army when in want, and to keep the Souldiers together from murmering, <hi>Neither</hi> did ever Souldiers better comply with a Generall then theſe here did with his Lordſhip, even in the midſt of their wants; and when their pay was (as divers times of neceſſity it was) ſhortned, ſaying publiquely, That if his Lordſhip had it we ſhould not want, God ſend him more. <hi>All the</hi> particulars herein contained are knowne by ſome or other of us, whoſe names are hereunto ſubſcribed, the greateſt part of them to moſt of us. All of them are come unto us by ſuch information from one another as we have reaſon to beleeve them to be true; and there is no one thing in this inſtrument which any of us knoweth to be untrue.</p>
+            <closer>
+               <dateline>Dated at <hi>Corke</hi> 
+                  <date>the ſecond of <hi>Auguſt.</hi> 1646.</date>
+               </dateline> 
+               <signed>Signed by
+<list>
+                     <item>THe Lord of <hi>Broghill,</hi> Lieu. Gen. of the Horſe.</item>
+                     <item>
+                        <hi>William Jephſon,</hi> Serjeant Major Generall.</item>
+                     <item>
+                        <hi>Tho. Serle,</hi> Col. and Gover<g ref="char:EOLhyphen"/>nour of <hi>Bandon.</hi>
+                     </item>
+                     <item>
+                        <hi>William Brocket,</hi> Col. and Governour of <hi>Kinſale.</hi>
+                     </item>
+                     <item>Sir <hi>Percy Smith</hi> Knight, and Gov. of <hi>Youghall.</hi>
+                     </item>
+                     <item>
+                        <hi>Fran. Courtney</hi> Col.</item>
+                     <item>
+                        <hi>Will. Kinſmill,</hi> Lieut. Col. to the Lord Preſident.</item>
+                     <item>
+                        <hi>Walter Croker,</hi> Lieut. Col to Sir <hi>Hardreſſe Walter.</hi>
+                     </item>
+                     <item>Sir <hi>Will. Courtney</hi> Knight.</item>
+                     <item>
+                        <pb n="9" facs="tcp:113799:6"/>
+                        <hi>Peregrin Baaniſtre.</hi>
+                     </item>
+                     <item>
+                        <hi>Agmundiſham Muſchampe,</hi> Gov. of the Fort of <hi>Cork.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Dowrich.</hi>
+                     </item>
+                     <item>
+                        <hi>Antho. Hovenden.</hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas Purden.</hi>
+                     </item>
+                     <item>
+                        <hi>Dan. Boulton.</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Comyn.</hi>
+                     </item>
+                     <item>
+                        <hi>Arth. Betteſworth.</hi>
+                     </item>
+                     <item>
+                        <hi>John Steeres.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſiah Harloe.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Rogers.</hi>
+                     </item>
+                     <item>
+                        <hi>John Hodder.</hi>
+                     </item>
+                     <item>
+                        <hi>James Perey.</hi>
+                     </item>
+                     <item>
+                        <hi>Edmund Hulle.</hi>
+                     </item>
+                     <item>
+                        <hi>Allex. Pigot.</hi>
+                     </item>
+                     <item>
+                        <hi>Anth. Stougton.</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Watkins.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Farding.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Holcombe.</hi>
+                     </item>
+                     <item>
+                        <hi>Warham St. Leger.</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Croker.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Peiſly.</hi>
+                     </item>
+                     <item>Sir <hi>Robert Travers</hi> Knight, Judge-Martiall.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from Col. <hi>William Jephſon</hi> to a Perſon of quality at Weſtminſter.</head>
+            <opener>
+               <salute>SIr,</salute>
+            </opener>
+            <p>ſince I writ my laſt we have taken <hi>Piltowne</hi> by ſtorme, which was a very ſtrong place, and (after a ſerious view there<g ref="char:EOLhyphen"/>of) I much admired that it proved ſo feaſible, for our men were firſt to gaine a ſtrong out-worke of earth, Moated about 20. Foot from the bottome of the Graffe; as likewiſe a ſtrong wall'd court of at leaſt 12. Foot high, and after that another ſmall Court of equall ſtrength with the former before they could approach the Caſtle; of all which notwithſtanding they preſently poſſeſt them<g ref="char:EOLhyphen"/>ſelves, with the loſſe of ſome men, and wounding about 20. but when they had taken all theſe, they found it a very difficult taske to enter the Caſtle it ſelfe, and whilſt they were endeavouring with barres of Iron to force a paſſage; the Rogues from the top of the Battlements threw downe ſtones ſo faſt upon the heads of our men below, that they hurt many of them, yet in ſpight of all theſe bruſhes at laſt they got into the lower roomes, but the
+<pb n="10" facs="tcp:113799:7"/>
+Rogues ſtill defended it, and brake downe the ſtone ſtaires to p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>event our men from getting up to them; we therefore finding, that without much miſchiefe it was impoſſible to get them downe; <hi>We</hi> were forced to lay Powder below, and blow them and the Caſtle up together, which we did laſt night: <hi>My Lord</hi> Preſident at his firſt Summons thereof promiſed them faire Quarter, if they would ſurrender it before he diſcharged three Peeces of Ordnance againſt it, which they refuſing were by that meanes afterwards (the Souldiers being alſo incenſt) deprived of all their lives, it being taken by ſtorme, only the women and children were turned out by the Rebels of their owne accord; <hi>Sir, upon</hi> the peace concluded between the Lord of <hi>Ormond,</hi> and the Rebels, there are great differences ariſing amongſt them, the Popes Nuncio and the Clergie being much againſt it, and the Laiety for it; if our ſupplies of men and other neceſſaries ſo long expected, and often repreſented thither, arrive at us in time, we ſhall not doubt but to give a good accompt of our indea<g ref="char:EOLhyphen"/>vours, but if they be delayed it will be impoſſible for us to ad<g ref="char:EOLhyphen"/>vance the intereſt of the State here as we deſire; and therefore we are hopefull we ſhall have ſupplies by the next faire wind. I have no more at preſent, but that I am</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt faithfull and affectionate Servant.</hi> William Jephſon.</signed>
+               <dateline>Youghall <date>20. Auguſt, 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
